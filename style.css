@@ -159,6 +159,8 @@ section#contact {
     background-color: rgba(41, 163, 211, 0.7);
     border-radius: 2vw 4vw;
     border-style: double; 
+    padding-left: 2vw;
+    padding-right: 2vw;
 }
 
 .projects h2 {
