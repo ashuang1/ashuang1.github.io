@@ -134,8 +134,8 @@ section#contact {
     justify-content: space-evenly;
 }
 
-.langs {
-    width: 22.5vw;
+.projects {
+    width: 32vw;
     height: 70vh;
     position: relative;
     background-color: rgba(41, 163, 211, 0.7);
@@ -143,16 +143,22 @@ section#contact {
     border-style: double; 
 }
 
-.langs h2 {
+.projects h2 {
     font-size: 6vh;
 }
 
-.langs ul li {
+.projects ul li {
     list-style-type: none;
     font-size: 3.7vh;
 }
 
-.projects {
+.project-link {
+    text-decoration: underline;
+    color: inherit;
+  }
+  
+
+.positions {
     width: 40vw;
     height: 70vh;
     position: relative;
@@ -163,15 +169,15 @@ section#contact {
     padding-right: 2vw;
 }
 
-.projects h2 {
+.positions h2 {
     font-size: 6vh;
 }
 
-.projects dl dt {
+.positions dl dt {
     font-size: 3.4vh;
 }
 
-.projects dl dd {
+.positions dl dd {
     font-size: 2vh;
 }
 
